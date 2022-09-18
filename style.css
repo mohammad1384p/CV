@@ -1,0 +1,56 @@
+body {
+    background-image: url(./background.jpg);
+    background-color: rgba(0, 153, 204, 0.09);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#d1 {
+    width: 400px;
+    height: 500px;
+    background-color: rgba(0, 153, 204, 0.09);
+    border: 1px solid red;
+    margin: 80px auto;
+    border-radius: 40px;
+
+}
+
+img {
+    margin: 8px 130px 0px 130px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    background-color: #fa0a0a;
+}
+
+p {
+    font-size: large;
+    font: medium;
+    background-color: rgba(90, 112, 50, 0.5999999);
+    border: 3px solid salmon;
+    border-radius: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+ul {
+    border: 3px dashed green;
+    background-color: rgba(173, 173, 173, 0.499999);
+    border-radius: 20px;
+    color: #00cfeb;
+}
+
+#d2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa {
+    background-color: white;
+    border-radius: 20px;
+    margin: 5px;
+}
