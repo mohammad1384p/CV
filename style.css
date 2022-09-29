@@ -33,7 +33,7 @@ p {
     border: 3px solid salmon;
     border-radius: 20px;
     text-align: center;
-    color: #F0B27A;
+    color: whitesmoke;
 }
 
 ul {
@@ -43,7 +43,7 @@ ul {
     color: #00cfeb;
 }
 
-#d3 {
+#d2 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,10 +52,5 @@ ul {
 .fa {
     background-color: white;
     border-radius: 20px;
-    margin: 3px;
-}
-
-#d2 {
-    color: #D4EFDF;
-    text-align: center;
+    margin: 5px;
 }
